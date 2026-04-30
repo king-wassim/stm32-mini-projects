@@ -1,0 +1,4 @@
+../Src/main.c:23:6:GPIO_Init_F1	4	static
+../Src/main.c:36:6:TIM3_Generator_Init	4	static
+../Src/main.c:52:6:TIM2_Measure_Init	4	static
+../Src/main.c:79:5:main	16	static

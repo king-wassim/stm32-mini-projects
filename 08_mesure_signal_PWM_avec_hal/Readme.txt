@@ -1,0 +1,1 @@
+ce projet permet de génerer un signal PWM en utilisant la pin PA8 en mode TIMER (Ton =3s ,Toff=1s ) on a utiliser la channel 1.

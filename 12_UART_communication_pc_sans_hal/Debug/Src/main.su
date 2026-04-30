@@ -1,0 +1,14 @@
+../Inc/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+../Inc/core_cm3.h:1876:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Src/main.c:8:5:_write	32	static
+../Src/main.c:28:6:UART1_GetChar	16	static
+../Src/main.c:37:6:UART1_SendChar	16	static
+../Src/main.c:42:6:UART1_SendString	16	static
+../Src/main.c:52:6:USART1_IRQHandler	16	static
+../Src/main.c:67:6:UART1_Init	16	static
+../Src/main.c:90:6:LED_Init	4	static
+../Src/main.c:97:6:LED_On	4	static
+../Src/main.c:98:6:LED_Off	4	static
+../Src/main.c:114:6:Command_Build	16	static
+../Src/main.c:130:6:Command_Execute	8	static
+../Src/main.c:163:5:main	16	static
